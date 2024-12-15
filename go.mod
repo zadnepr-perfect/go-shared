@@ -1,4 +1,4 @@
-module shared
+module github.com/zadnepr-perfect/shared
 
 go 1.23.3
 
